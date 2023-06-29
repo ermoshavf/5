@@ -1,0 +1,1 @@
+nibid q bank balances $(nibid keys show $NIBIRU_NODENAME -a)
